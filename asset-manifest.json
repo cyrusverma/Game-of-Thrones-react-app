@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Game-of-Thrones-react-app/static/css/main.ef498b0b.css",
+    "main.js": "/Game-of-Thrones-react-app/static/js/main.554ea54e.js",
+    "static/js/787.8477bb02.chunk.js": "/Game-of-Thrones-react-app/static/js/787.8477bb02.chunk.js",
+    "index.html": "/Game-of-Thrones-react-app/index.html",
+    "main.ef498b0b.css.map": "/Game-of-Thrones-react-app/static/css/main.ef498b0b.css.map",
+    "main.554ea54e.js.map": "/Game-of-Thrones-react-app/static/js/main.554ea54e.js.map",
+    "787.8477bb02.chunk.js.map": "/Game-of-Thrones-react-app/static/js/787.8477bb02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef498b0b.css",
+    "static/js/main.554ea54e.js"
+  ]
+}
